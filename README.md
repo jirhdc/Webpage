@@ -1,1 +1,1 @@
-Personal page, redirecting to linkedin.
+Personal page, redirecting to LinkedIn.
